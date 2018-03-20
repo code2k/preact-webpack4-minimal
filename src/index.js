@@ -1,4 +1,4 @@
-import { h, render, Component } from "preact";
+import { h, render } from "preact";
 
 let root;
 function init() {
