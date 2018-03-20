@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "plugin:import",
+    "prettier",
+    "prettier/react"
+  ]
+}
