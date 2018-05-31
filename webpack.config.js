@@ -26,5 +26,11 @@ module.exports = {
       template: "./src/index.html",
       filename: "./index.html"
     })
-  ]
+  ],
+  devServer: {
+    overlay: {
+      warnings: true,
+      errors: true
+    }
+  }
 };
